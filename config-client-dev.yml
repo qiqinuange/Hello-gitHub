@@ -1,1 +1,2 @@
-mycloud.version=2
+mycloud:
+  version: 2
